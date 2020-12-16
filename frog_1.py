@@ -1,5 +1,7 @@
+# rn
+
 def my_superfunction():
-    print('CYKA BLYAT KAK YA ZADOLBALSYA')
+    print('')
 
 def main():
     print('VCE HOROSHO')
